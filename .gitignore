@@ -12,6 +12,7 @@ yarn-error.log*
 .vscode/*
 .wrangler/*
 wrangler.encrypt.jsonc
+wrangler.deploy.jsonc
 .idea
 .DS_Store
 
